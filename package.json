@@ -1,0 +1,15 @@
+{
+  "name": "clase7desafio",
+  "version": "1.0.0",
+  "description": "\"Desafio de la clase 7 servidor con express\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nkyozkz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-modules": "^1.0.1"
+  }
+}

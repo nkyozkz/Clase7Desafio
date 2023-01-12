@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "title": "Producto1",
+        "description": "Descripcion producto 1",
+        "price": 100,
+        "thumbnail": "localhost:3000/imagenes/1",
+        "code": 123,
+        "stock": 3
+    },
+    {
+        "id": 1,
+        "title": "ProductoPrueba",
+        "description": "Descripcion producto 2",
+        "price": 200,
+        "thumbnail": "localhost:3000/imagenes/2",
+        "code": 456,
+        "stock": 1
+    },
+    {
+        "id": 2,
+        "title": "Disco Mix Musica",
+        "description": "Mas de 700 canciones en un solo disco!!",
+        "price": 3000,
+        "thumbnail": "localhost:3000/imagenes/3",
+        "code": 123,
+        "stock": 4
+    }
+]
